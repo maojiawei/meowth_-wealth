@@ -1,2 +1,2 @@
-# meowth_-wealth
+# meowth_wealth
 集财
